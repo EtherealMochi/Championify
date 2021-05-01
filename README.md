@@ -1,3 +1,5 @@
+# This fork will probably not be updated, but who knows I might get around to it.
+
 ![Championify](resources/github_banner.jpg)
 
 # Championify
